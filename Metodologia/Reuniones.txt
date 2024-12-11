@@ -1,6 +1,6 @@
-sprint1 - Wladmir Nuñez - Felipe Moncada Fecha:07-12 - Discord Online
-sprint2 - Wladmir Nuñez - Felipe Moncada Fecha:08-12 - Discord Online
-sprint3 - Wladmir Nuñez - Felipe Moncada Fecha:08-12 - Discord Online
-sprint4 - Wladmir Nuñez - Felipe Moncada Fecha:09-12 - Hogar   Offline
-sprint5 - Wladmir Nuñez - Felipe Moncada Fecha:10-12 - Discord Online
-sprint6 - Wladmir Nuñez - Felipe Moncada Fecha:10-12 - Discord Online
+sprint1 - Wladmir Nuñez - Felipe Moncada Desarrollar la interfaz de usuario Fecha:07-12 - Discord Online 
+sprint2 - Wladmir Nuñez - Felipe Moncada Desarrollar la interfaz de usuario para el reporte Fecha:08-12 - Discord Online
+sprint3 - Wladmir Nuñez - Felipe Moncada Desarrollar la interfaz de usuario para el reporte PDF Fecha:08-12 - Discord Online
+sprint4 - Wladmir Nuñez - Felipe Moncada Refactorización del códig Fecha:09-12 - Hogar   Offline
+sprint5 - Wladmir Nuñez - Felipe Moncada Análisis de requisitos: Definir las funcionalidades Fecha:10-12 - Discord Online
+sprint6 - Wladmir Nuñez - Felipe Moncada Preparación para el despliegue: Empaquetar el código para la distribució Fecha:10-12 - Discord Online
