@@ -1,0 +1,16 @@
+SQL
+-- Crear la base de datos
+CREATE DATABASE IF NOT EXISTS control_gastos;
+
+-- Usar la base de datos
+USE control_gastos;
+
+-- Crear la tabla de transacciones
+CREATE TABLE IF NOT EXISTS transacciones (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    fecha DATE,
+    tipo ENUM('Ingreso', 'Gasto'),
+    monto DECIMAL(10, 2),
+    categoria VARCHAR(255),
+    descripcion TEXT
+);
