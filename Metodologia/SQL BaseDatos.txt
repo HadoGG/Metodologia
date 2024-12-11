@@ -1,16 +1,10 @@
-SQL
--- Crear la base de datos
-CREATE DATABASE IF NOT EXISTS control_gastos;
+CREATE DATABASE control_gastos;
 
--- Usar la base de datos
 USE control_gastos;
 
--- Crear la tabla de transacciones
-CREATE TABLE IF NOT EXISTS transacciones (
+CREATE TABLE transacciones (
     id INT AUTO_INCREMENT PRIMARY KEY,
-    fecha DATE,
-    tipo ENUM('Ingreso', 'Gasto'),
+    descripcion VARCHAR(255),
     monto DECIMAL(10, 2),
-    categoria VARCHAR(255),
-    descripcion TEXT
+    categoria VARCHAR(255)
 );
