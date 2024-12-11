@@ -6,6 +6,8 @@ import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 from fpdf import FPDF
 
+#pip install mysql-connector-python matplotlib fpdf 
+
 # Conectar a la base de datos MySQL
 def connect_db():
     return mysql.connector.connect(
